@@ -1,4 +1,4 @@
-baseURL = 'http://hugo-quickstart-template.netlify.com'
-languageCode = 'zh-CN'
+baseURL = 'https://chatgptpro.website/'
+languageCode = 'zh-cn'
 title = 'ChatGPT镜像站点和技术交流'
 theme = 'netlify-basic'
