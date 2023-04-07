@@ -1,10 +1,10 @@
 这儿为你准备了众多免费好用的ChatGPT镜像站点
 
-发布网站：http://chatgptpro.website/ (😃敬请收藏)
+发布网站：https://wangzimo.top/chat/index.html (😃敬请收藏)
 
-分享站点、站点失效或标注错误，请浏览🌺http://chatgptpro.website/🌺告诉我
+分享站点、站点失效或标注错误，请浏览🌺https://wangzimo.top/chat/index.html🌺告诉我
 
-🔗生活不易，感谢您的支持【🧡赞赏🧡】赞赏地址：http://chatgptpro.website/
+🔗生活不易，感谢您的支持【🧡赞赏🧡】赞赏地址：https://wangzimo.top/chat/index.html
 
 ⭐:使用不受限 🔑:需要进行登录或需要密码 ⛔:有限地使用次数或字数，需提供key或进行充值进行服务升级 ❓ :未测试，未进行标注也为未测试
 
